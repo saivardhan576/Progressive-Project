@@ -54,5 +54,4 @@ public class Customers {
     public void setRole(String role){
         this.role=role;
     }
-System.out.println("hi");
 }
